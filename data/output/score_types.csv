@@ -117,7 +117,7 @@ SA22a,"Agricultural Land",,"O  Non-agricultural land
 -- Agricultural land Grade 1, 2, 3 or 3a"
 SA22b,"Area of Search for Wind Energy",,"+ Site within Area of Search for Wind Energy
 O Site not within Area of Search for Wind Energy"
-SA22c,"Water Resources For employment uses, consideration of Environment Agency’s information on restricted water availability.",,"Proposed Retail or Housing Use
+SA22c,Water Resources,"For employment uses, consideration of Environment Agency’s information on restricted water availability.","Proposed Retail or Housing Use
 O   All retail and housing sites
 
 Proposed Employment Use
