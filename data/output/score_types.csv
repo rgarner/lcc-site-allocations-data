@@ -108,7 +108,8 @@ SA18c,"HSE Major Hazard Zone",,"O Site not within HSE Major Hazard Zone
 SA19,Landscape,"Guided by extent of woodland coverage and number of hedges and other landscape features Does the site fall within a Special Landscape Area or include a Tree Preservation Order","O  No existing landscape features or feature could be retained
 -  Woodland coverage and hedges or attractive landscape which would be lost
 -- Special Landscape Area / Tree Preservation Order"
-SA20,Local distinctiveness,Consider scale of site in relation to existing settlement and whether it would it change the distinctiveness of the settlement.,"+   Existing unattractive brownfield site. O  Brownfield site, but not unattractive;        greenfield site in scale with         settlement; greenfield site where       development could still maintain         distinctiveness -   Large Greenfield site, out of        character with settlement"
+SA20,"Local distinctiveness","Consider scale of site in relation to existing settlement and whether it would it change the distinctiveness of the settlement.","+ Existing unattractive brownfield site.
+O Brownfield site, but not unattractive; greenfield site in scale with settlement; greenfield site where development could still maintain distinctiveness - Large Greenfield site, out of character with settlement"
 SA21,"Historic environment","Consider if site would affect a heritage asset. Defined by NPPF as Listed Building, Conservation Area, Registered Park & Garden, Schedule Ancient Monument (Class I and I) and Registered Battlefield. 100m buffer zone from site to heritage asset.","O Site does not contain/is not within or adjacent to a heritage asset (100m)
 U Site contains/ is within or adjacent to a heritage asset (100m) - uncertain effect"
 SA22,Energy and natural resources,"Subdivide SA22 into 3 to consider whether site affected by agricultural land classification, Areas of Search for Wind, minerals, designation and water resources",""
