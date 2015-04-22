@@ -16,6 +16,7 @@
                                               #                         14/02181/COND,419403,442345
 
 /1990 Act that/                      { next } # Not a shlaa_ref, but would match shlaa_ref regex otherwise
+/Yes Yes Yes/                        { next } # No
 
 BEGIN {
   state = "expecting_shlaa_ref"
@@ -28,7 +29,7 @@ BEGIN {
     massaged_shlaa_ref = $1
     sub(/\"/, "", massaged_shlaa_ref)
     if(massaged_shlaa_ref != last_shlaa_ref) {
-      if (massaged_shlaa_ref < last_shlaa_ref) {
+      if (massaged_shlaa_ref < last_shlaa_ref || massaged_shlaa_ref == "53") {
         print "WARN: shlaa ref appears out of order " $0 > "/dev/stderr"
       }
       shlaa_ref = massaged_shlaa_ref
