@@ -1,6 +1,20 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    diff-lcs (1.2.5)
+    rspec (3.2.0)
+      rspec-core (~> 3.2.0)
+      rspec-expectations (~> 3.2.0)
+      rspec-mocks (~> 3.2.0)
+    rspec-core (3.2.3)
+      rspec-support (~> 3.2.0)
+    rspec-expectations (3.2.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.2.0)
+    rspec-mocks (3.2.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.2.0)
+    rspec-support (3.2.2)
     tabula-extractor (0.7.5-java)
       trollop (~> 2.0)
     trollop (2.1.1)
@@ -9,4 +23,5 @@ PLATFORMS
   java
 
 DEPENDENCIES
+  rspec
   tabula-extractor
