@@ -17,6 +17,7 @@
 
 /1990 Act that/                      { next } # Not a shlaa_ref, but would match shlaa_ref regex otherwise
 /Yes Yes Yes/                        { next } # No
+/[0-9]{3,5} (NE|S)? —/               { next }
 
 BEGIN {
   state = "expecting_shlaa_ref"
@@ -40,9 +41,11 @@ BEGIN {
 
 /Easting.*Northing/ {
   if(state == "expecting_location") {
-    easting  = $2;
-    northing = $4
-    sub(/,/, "", northing)
+    if($2 != "Northing") {
+      easting  = $2;
+      northing = $4
+      sub(/,/, "", northing)
+    }
     state = "expecting_conclusion"
   }
 }
