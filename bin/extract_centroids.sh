@@ -12,6 +12,6 @@ PDFS=data/raw/*Proforma*
 
 for pdf in ${PDFS};
 do
-  echo "# Source: ${pdf}"
+  # echo "# Source: ${pdf}"
   tabula "${pdf}" --pages all | awk -f bin/proforma.awk
 done
