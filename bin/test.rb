@@ -18,7 +18,10 @@ test_centroids_by_shlaa_ref = [
 ]
 
 centroids_by_shlaa_ref = CSV.read('data/output/centroids.csv').inject({}) do |hash, row|
-  hash[row[0]] = row
+  existing_row = hash[row[0]]
+  puts "#{row.to_s} has already been seen as #{existing_row}" if existing_row
+
+  hash[row[0]] ||= row
   hash
 end
 
