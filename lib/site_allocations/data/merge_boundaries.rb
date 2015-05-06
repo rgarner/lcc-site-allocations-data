@@ -9,6 +9,8 @@ module SiteAllocations
       end
 
       def run!
+        raise ArgumentError, 'no input files' unless @boundary_csv_files.any?
+        check_boundary_files_exist!
         File.open(@output_file, 'w+') do |file|
           file.puts 'SHLAA Ref,Boundary'
           merged_geoms_by_shlaa_ref.each do |pair|
@@ -17,7 +19,13 @@ module SiteAllocations
         end
       end
 
-    private
+      private
+      def check_boundary_files_exist!
+        @boundary_csv_files.each do |filename|
+          raise Errno::ENOENT.new(filename) unless File.exists?(filename)
+        end
+      end
+
       def merged_geoms_by_shlaa_ref
         @boundary_csv_files.inject({}) do |hash, filename|
           hash.merge(geom_by_shlaa_ref(filename))
