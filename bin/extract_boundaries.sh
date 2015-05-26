@@ -26,7 +26,7 @@ rm -Rf ${SHLAA_CSV} && \
 
 AIRE_CSV=data/raw/shapefiles/aireborough-2015-boundaries.csv
 rm -Rf ${AIRE_CSV} && \
-  ogr2ogr -nlt POLYGON -lco "GEOMETRY=AS_WKT" -f "CSV" /vsistdout/ data/raw/shapefiles/SHLAA\ Allocations\ aireborough\ 2015_region.shp | \
+  ogr2ogr -nlt POLYGON -lco "GEOMETRY=AS_WKT" -t_srs EPSG:4326 -f "CSV" /vsistdout/ data/raw/shapefiles/SHLAA\ aireborough\ 2014\ QGIS_region.shp | \
   sed 's/,ID,/,SHLAA_REF,/' \
     > ${AIRE_CSV}
 
