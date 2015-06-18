@@ -13,7 +13,7 @@ trap '{ exit 1; }' INT
 
 set -e
 
-HMCA_CSV=data/output/hmca.csv
+HMCA_CSV=data/output/hmc_areas.csv
 
 rm -f ${HMCA_CSV}
 ogr2ogr -nlt POLYGON -lco "GEOMETRY=AS_WKT" -t_srs EPSG:4326 -f "CSV" ${HMCA_CSV} \
