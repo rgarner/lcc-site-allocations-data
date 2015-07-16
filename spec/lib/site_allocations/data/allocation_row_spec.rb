@@ -115,16 +115,16 @@ module SiteAllocations
     describe '#to_csv' do
       context 'no data' do
         it 'is empty' do
-          expect(AllocationRow.new(['', '']).to_csv).to eql(%("","",,,,,,,\n))
+          expect(AllocationRow.new(['', '']).to_csv).to eql(%("","",,,,,,,,Draft\n))
         end
       end
 
       context 'building up' do
         it 'puts out what it knows about at any stage' do
           row = AllocationRow.new(['HG2-119', '2062'])
-          expect(row.to_csv).to eql("HG2-119,2062,,,,,,,\n")
+          expect(row.to_csv).to eql("HG2-119,2062,,,,,,,,Draft\n")
           row.add_back_half(["Bradford Road - High Royds, Menston", '349', '', '335','14', '', '0'])
-          expect(row.to_csv).to eql("HG2-119,2062,\"Bradford Road - High Royds, Menston\",349,335,14,0,,\n")
+          expect(row.to_csv).to eql("HG2-119,2062,\"Bradford Road - High Royds, Menston\",349,335,14,0,,,Draft\n")
         end
       end
     end

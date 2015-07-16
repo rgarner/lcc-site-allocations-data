@@ -36,9 +36,11 @@ module SiteAllocations
       end
 
       def to_csv
+        #    echo 'Allocation Ref,SHLAA Refs,Address,Capacity,Completed post-2012,'\
+        #         'Under construction,Not started,Green/Brown,Status' > ${FINAL_FILE}
         CSV.generate_line [
           allocation_ref, shlaa_refs_as_string, address, capacity, completed_post_2012,
-          under_construction, not_started, area_ha, green_brown
+          under_construction, not_started, area_ha, green_brown, 'Draft'
         ]
       end
 
