@@ -45,6 +45,22 @@ module SiteAllocations
           end
         end
 
+        context 'has an abbreviated list of shlaa_refs (1)' do
+          let(:front_half) { ['HG2-120', '4222A_B_C'] }
+
+          it 'expands the shlaa_refs' do
+            expect(row.shlaa_refs).to eql(%w(4222A 4222B 4222C))
+          end
+        end
+
+        context 'has an abbreviated list of shlaa_refs (2)' do
+          let(:front_half) { ['HG2-120', '2098A_C'] }
+
+          it 'expands the shlaa_refs' do
+            expect(row.shlaa_refs).to eql(%w(2098A 2098C))
+          end
+        end
+
         context 'has a list of shlaa_refs separated by underscore' do
           let(:front_half) { ['HG2-120', '2062_117_110A'] }
 
