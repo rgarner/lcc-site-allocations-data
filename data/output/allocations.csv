@@ -1,0 +1,737 @@
+Allocation Ref,SHLAA Refs,Address,Capacity,Completed post-2012, Under construction,Not started,Area HA,Green/Brown,Status
+HG1-1,734,"Bradford Road - High Royds, Menston",349,335,14,0,,,Draft
+HG1-2,738,"Netherfield Road - Cromptons, Guiseley",116,93,0,23,,,Draft
+HG1-3,742,"Netherfield Road, Guiseley",98,78,18,2,,,Draft
+HG1-4,HLA2802490,The Drop Inn 29 Town Street Guiseley,6,6,0,0,,,Draft
+HG1-5,5121,Parkside Works Otley Road Guiseley,7,0,0,7,,,Draft
+HG1-6,271,"Springfield Road - Springhead Mills, Guiseley",54,0,0,54,,,Draft
+HG1-7,5111,"Former Dairy Crest Site, Queensway, Guiseley",14,0,0,14,,,Draft
+HG1-8,HLA2802390,107 Queensway Yeadon,9,0,0,9,,,Draft
+HG1-9,3164,"Haworth Court, Chapel Lane",45,0,0,45,,,Draft
+HG1-10,741,"Greenlea Road, Yeadon",30,30,0,0,,,Draft
+HG1-11,3187,"Station Garage, Henshaw Lane, Yeadon",5,0,0,5,,,Draft
+HG1-12,1308,"Site of Units at Green Lane Dyeworks and Mill Ponds and 25 and 27 Green Lane, Yeadon, Leeds",171,0,1,170,,,Draft
+HG1-13,HLA2700370,26-28 New Road Side Horsforth,5,0,0,5,,,Draft
+HG1-14,3229,"Batter Lane, Rawdon",4,4,0,0,,,Draft
+HG1-96,34,"Low Hall Road -Riverside Mill, Horsforth LS19",54,0,0,54,,,Draft
+HG2-6,1113,"Silverdale Avenue (land at), Guiseley",32,,,,2,Greenfield,Draft
+HG2-7,180,"Swaine Hill Terrace - former Brookfield Nursing Home, Yeadon",7,,,,0.4,Brownfield,Draft
+HG2-8,4019,"Kirkland House, Queensway, Yeadon",17,,,,0.5,Brownfield,Draft
+HG2-11,12,"Larkfield Drive (off) - Ivy House (adjacent), Rawdon",6,,,,0.5,Greenfield,Draft
+HG2-1,3026,"New Birks Farm, Ings Lane, Guiseley",298,,,,11.3,Greenfield,Draft
+HG2-2,3029,"Wills Gill, Guiseley",133,,,,5.1,Greenfield,Draft
+HG2-3,1255B,"Shaw Lane (land at), Guiseley and Banksfield Mount, Yeadon",234,,,,8.9,Greenfield,Draft
+HG2-4,4020,"Hollins Hill and Hawkstone Avenue, Guiseley",80,,,,3,Greenfield,Draft
+HG2-5,1180A_1311,Coach Road/Park Road Guiseley,83,,,,5.3,Greenfield,Draft
+HG2-9,3366,"Land at Victoria Avenue, Leeds",102,,,,3.9,Greenfield,Draft
+HG2-10,1221,"Gill Lane, Yeadon LS19",155,,,,5.9,Greenfield,Draft
+HG2-12,4254,"Woodlands Drive, Rawdon",130,,,,4.9,Greenfield,Draft
+HG3-1,4043,"Ings Lane, Guiseley",3.6,114,,,,,Draft
+HG3-2,4095,"Land to west of Knott Lane, Rawdon",1.9,81,,,,,Draft
+HG3-3,3331,"Land at Rawdon, Leeds",1,35,,,,,Draft
+HG3-4,3329_5145,Layton Wood Rawdon,4.7,130,,,,,Draft
+HG1-419,5115,"22-23 Blenheim Terrace, Leeds, LS2 9HD",9,0,0,9,,,Draft
+HG1-420,5195,"8 Blenheim Terrace, Woodhouse Lane, Woodhouse, Leeds, LS2 9HZ",6,0,0,6,,,Draft
+HG1-421,3138,3-4 Blenheim Terrace LS2,1,0,1,0,,,Draft
+HG1-422,3338,"8 Springfield Mount, Leeds LS2 9ND",9,9,0,0,,,Draft
+HG1-423,182,"Springfield Mount (19), Woodhouse LS2 9NG",7,0,0,7,,,Draft
+HG1-424,4181,"44 Claredon Road, LS2 9PJ",5,5,0,0,,,Draft
+HG1-425,3160,29-31 Hyde Park Terrace LS2,6,0,0,6,,,Draft
+HG1-426,3139,25-27 Hyde Terrace LS1,11,"",0,0,,,Draft
+HG1-427,3140,23 Hyde Terrace LS2,6,0,0,6,,,Draft
+HG1-428,3141,40 Clarendon Road LS2,6,0,0,6,,,Draft
+HG1-429,HLA2005090,"36 Clarendon Road, Woodhouse, Leeds, LS9 9NZ",7,7,0,0,,,Draft
+HG1-430,3347,"15-19 Hyde Terrace, Leeds, LS2 9LT",14,14,0,0,,,Draft
+HG1-431,3340,"65 Clarendon Road, Leeds, LS2 9NZ",12,0,8,4,,,Draft
+HG1-432,4180,"31 Clarendon Road, LS2 9NZ",10,10,0,0,,,Draft
+HG1-433,5156,"Clarendon House, 20 Clarendon Road",24,0,0,24,,,Draft
+HG1-434,3339,"20-28 Hyde Terrace, Leeds LS2 9LN",27,23,4,0,,,Draft
+HG1-435,3307,Leeds Metropolitan University LS1 3HE,199,125,74,0,,,Draft
+HG1-436,2029,Leeds Metropolitan University LS1 3HE,145,0,145,0,,,Draft
+HG1-437,5186,21 - 23 Queen Square,5,0,0,5,,,Draft
+HG1-438,5104,"18 Queen Square, Leeds, LS2",7,1,6,0,,,Draft
+HG1-440,5122,17 Regent Street Sheepscar,73,0,0,73,,,Draft
+HG1-441,5015,"Site of Kendall Carr, Hanover Mount, Woodhouse, Leeds",23,0,0,23,,,Draft
+HG1-442,204,Hanover Square (32) LS3 1AW,7,0,0,7,,,Draft
+HG1-443,HLA2005280,"Algernon Firth Building, LGI, Thoresby Place Leeds",43,43,0,0,,,Draft
+HG1-444,5174,"Crown House, 81 - 89 Great George Street, Leeds, LS1 3BR",37,0,0,37,,,Draft
+HG1-445,5103,"63 Great George Street, Leeds, LS1 3bb",5,5,0,0,,,Draft
+HG1-446,4183,"74 New Briggate, LS1",7,7,0,0,,,Draft
+HG1-447,394,New York Road - Crispin House LS2,85,85,0,0,,,Draft
+HG1-448,439,Emco Ho 5-7 New York Road LS2,60,"",0,0,,,Draft
+HG1-449,429,"Site of 8 South Parade 22 East Parade and 159 The Headrow,",26,0,0,26,,,Draft
+HG1-450,4190,"Forsyth House, 5 South Parade, City Centre",13,0,0,13,,,Draft
+HG1-451,5182,22 to 24 New Briggate,12,0,0,12,,,Draft
+HG1-452,4195,"Pennine House, LS1 5RN",112,98,14,0,,,Draft
+HG1-453,5157,"6 - 12 Lands Lane, LS1 6LD",18,0,0,18,,,Draft
+HG1-454,5184,"42 Park Place, LS1 2RY",8,0,0,8,,,Draft
+HG1-456,3337,"29 Kirkgate and 18 New York Street, Leeds LS2",8,8,0,0,,,Draft
+HG1-457,5108,"First And Second Floors And Loft Space, 46-48 New York Street",7,0,7,0,,,Draft
+HG1-458,3018,4 St Peters Place Leeds LS9,18,0,0,18,,,Draft
+HG1-459,395,The Calls (36),14,0,0,14,,,Draft
+HG1-462,5175,"53 The Calls, Leeds, LS2 7EY",16,0,0,16,,,Draft
+HG1-463,406,Manor Road (16-18) LS11,57,0,0,57,,,Draft
+HG1-464,407,Manor Road LS11,744,0,0,744,,,Draft
+MX1-5,454,Portland Crescent LS1,50,0,0,50,,,Draft
+MX1-7,402,Cropper Gate - Mayfair LS1,272,0,0,272,,,Draft
+MX1-8,MXD00075,"Aireside development, Wellinton Place and Whitehall Road, Leeds",600,0,0,600,,,Draft
+MX1-9,5123,"30 Sovereign Street, Leeds, LS1 4BA",5,0,0,5,,,Draft
+MX1-10,3017,St Peters church & house,35,0,0,35,,,Draft
+MX1-13,450,Globe Road / Water Lane LS11,263,0,0,263,,,Draft
+MX1-14,405,Globe Road - Tower Works LS10,134,0,0,134,,,Draft
+MX1-15,205,"Granary Wharf Car Park, off Water Lane LS11 5PS",68,0,0,68,,,Draft
+MX1-16,202,Silver Street - Midland Mills LS11 9YW,15,0,0,15,,,Draft
+MX1-17,409,Bath Road LS11,240,0,0,240,,,Draft
+MX1-18,181,Sweet Street West (20) - Management Archives,140,0,0,140,,,Draft
+MX1-19,458,Sweet Street West (Land South of) Holbeck,830,0,0,830,,,Draft
+MX1-20,445,Jack Lane / Sweet Street LS10,296,0,0,296,,,Draft
+MX1-21,415,"Site of 1 and 6 Church Row, Leeds",9,0,0,9,,,Draft
+MX1-22,443,"Site of former Jayco House Car Park, Skinner Lane, Sheepscar, Leeds",106,0,0,106,,,Draft
+MX1-23,456,"Site of 20 and Land rear of 14 and 16 The Calls, Leeds",77,0,0,77,,,Draft
+MX1-24,2023,"Former site of Yorkshire Evening Post bounded by River Aire and Wellington Bridge Street, Wellington Street, Leeds",204,0,0,204,,,Draft
+HG2-187,3157,"Brandon Road, LS3",72,,,,0.2,Brownfield,Draft
+HG2-188,446,Great George Street (57),7,,,,0,Brownfield,Draft
+HG2-189,2006,North Street (59) - Caspar building and Centenary House LS2,220,,,,0.7,Brownfield,Draft
+HG2-190,421,Leylands Road LS2,9,,,,0,Brownfield,Draft
+HG2-191,426,Aire Street (49) LS1,6,,,,0,Brownfield,Draft
+HG2-193,2021,Water Lane Car Park,62,,,,0.2,Brownfield,Draft
+HG2-194,2018,Silver Street/ Midland Mills North,86,,,,0.3,Brownfield,Draft
+HG2-195,2019,Silver Street/ Midland Mills South,179,,,,0.6,Brownfield,Draft
+HG2-196,2015,Bath Road West,154,,,,0.6,Brownfield,Draft
+HG2-197,2016,Bath Road East,174,,,,0.6,Brownfield,Draft
+HG2-198,1082,"Manor Road - Manor Court, Holbeck LS11",39,,,,0.1,Brownfield,Draft
+HG2-199,5019,"Holbeck Day Centre, Holbeck Moor Road, Holbeck",14,,,,0.2,Brownfield,Draft
+HG2-202,5196,Criterion Place North,210,,,,0.4,Brownfield,Draft
+MX2-15,2028A,Great George Street - LGI,372,,,,4.3,Brownfield,Draft
+MX2-16,1010,"Bridge Street, Baker House",63,,,,0.2,Brownfield,Draft
+MX2-17,2004,North Street - Leeds College of Building,180,,,,0.9,Brownfield,Draft
+MX2-18,410,Regent Street / Skinner Lane LS2,72,,,,0.2,Brownfield,Draft
+MX2-19,230,Westgate - Leeds International Swimming Pool,209,,,,1.3,Brownfield,Draft
+MX2-20,187,Westgate - Brotherton House LS1 2RS,63,,,,0.3,Brownfield,Draft
+MX2-22,2001,St Peters Square,49,,,,0.1,Brownfield,Draft
+MX2-23,200_411,Quarry Hill/York Street Leeds,600,,,,3.3,Brownfield,Draft
+MX2-25,449,Duncan Street (7),15,,,,0,Brownfield,Draft
+MX2-26,231,Kirkgate Phase II,65,,,,0.3,Brownfield,Draft
+MX2-27,2007,Wharf Street,14,,,,0,Brownfield,Draft
+MX2-29,431,The Calls (38),14,,,,0,Brownfield,Draft
+MX2-30,2031,Water Lane Railway Triangle,171,,,,1,Brownfield,Draft
+MX2-31,1009,"Marshall Street - 1953 Building, Holbeck",187,,,,0.6,Brownfield,Draft
+MX2-32,225,Water Lane - Westbank,288,,,,2.2,Brownfield,Draft
+HG1-278,5124,Pepper Road LS10,2,"",0,"",,,Draft
+HG1-284,795,Red Hall Lane LS17,300,0,0,300,,,Draft
+HG1-285,807,Red Hall Lane - Strikes LS17,20,20,0,0,,,Draft
+HG1-286,3227,"Naburn Approach, LS14",4,4,0,0,,,Draft
+HG1-287,796,York Road - Grime's Dyke LS14,369,41,112,216,,,Draft
+HG1-288,797,East Leeds Extension,3771,0,0,4325,,,Draft
+HG1-289,5140,FARNDALE VIEW(PFI K) LS14,10,10,0,0,,,Draft
+HG1-290,802,Swarcliffe Avenue - PFI E LS14,25,3,18,4,,,Draft
+HG1-291,799,Whinmoor Way - PFI C LS14,116,109,7,0,,,Draft
+HG1-292,3219,"Ash Tree Grove, (PFI F) LS14",13,13,0,0,,,Draft
+HG1-293,804,Mill Green Garth - PFI L1 LS14,5,2,0,3,,,Draft
+HG1-294,4086,"Squinting Cat, Swarcliffe Avenue",18,0,0,18,,,Draft
+HG1-295,803,Elmete Towers - PFI Q LS14,30,30,0,0,,,Draft
+HG1-296,2154,Seacroft Hospital (rear of),720,0,0,720,,,Draft
+HG1-297,281,Manston Lane - Radial Park (Ph 1),148,107,29,12,,,Draft
+HG1-298,282,Manston Lane,192,51,20,121,,,Draft
+HG1-300,4191,"Land At Brooksbank Drive, Halton",6,4,0,2,,,Draft
+HG1-301,4219,"Land rear of 22 Barrowby Lane, Austhorpe, Leeds",14,0,0,14,,,Draft
+HG1-302,353,"Barrowby Lane (30-34), Austhorpe LS15 8QE",11,11,0,0,,,Draft
+HG1-303,2144A,"Cartmell Drive, Halton Moor",31,0,0,31,,,Draft
+HG1-311,2040,"Bullerthorpe Lane (Temple Point), Colton",17,17,0,0,,,Draft
+MX1-25,2039,"Land bounded by Park Approach and Barrowby Lane off Manston Lane, Manston, Leeds",300,0,0,300,,,Draft
+HG2-104,4123,York Road / Selby Road,12,,,,0.9,Brownfield,Draft
+HG2-119,2062,Red Hall Offices & Playing Field LS17,50,,,,13.9,Greenfield,Draft
+HG2-120,1297,"Manston Lane - former Vickers Tank Factory Site, Cross Gates",450,,,,21.5,Brownfield,Draft
+HG2-121,267,Killingbeck Bridge - Wykebridge Depot LS14,23,,,,0.6,Brownfield,Draft
+HG2-122,2144B,"Cartmell Drive, Halton Moor",170,,,,5.7,Greenfield,Draft
+HG2-123,2090A,"Colton Road East, Colton LS15",165,,,,6.2,Greenfield,Draft
+HG2-174,1359,Wood Lane - Rothwell Garden Centre LS26,31,,,,3.2,Mix 50:50,Draft
+HG1-207,383,Beckhill Garth/Approach,34,0,"",0,,,Draft
+HG1-208,5161,Grove Park Care Home Grove Lane Meanwood,0,,,,77,77,Draft
+HG1-209,3306,"Scott Hall Square, Chapel Allerton",24,24,0,"",,,Draft
+HG1-210,2147A,"Askets and Boggarts (A), Seacroft",24,0,0,"",,,Draft
+HG1-211,2147C,"Askets and Boggarts (C), Seacroft",114,0,0,"",,,Draft
+HG1-212,4185,"Boggart Hill Gardens, Seacroft",18,10,0,"",,,Draft
+HG1-213,5141,BOGGART HILL LS14,24,0,0,"",,,Draft
+HG1-214,3165,66 to 68 Victoria Road Headingley,6,0,0,6,,,Draft
+HG1-215,HLA2600290,Ash Grove LS6,16,12,4,0,,,Draft
+HG1-216,3137,Leeds Girls High School,82,0,0,82,,,Draft
+HG1-217,4178,"6 Grosvenor Mount, Leeds",7,0,0,7,,,Draft
+HG1-218,HLA2603650,7 Grosvenor Road LS6,7,3,4,0,,,Draft
+HG1-219,HLA3402390,Chapeltown Rd/Savile Road LS7,22,0,0,22,,,Draft
+HG1-220,5109,"Browning House, 126 Chapeltown Road, Chapeltown",9,0,0,9,,,Draft
+HG1-221,HLA3402670,"2 Grange View, Chapeltown, Leeds, LS7 4EP",6,6,0,0,,,Draft
+HG1-222,3206,"Din Buildings, Roundhay Road, LS8 3QD",8,0,0,8,,,Draft
+HG1-223,842,Coldcotes Thorn Walk LS9,51,27,24,0,,,Draft
+HG1-224,841,Oak Tree Drive LS8,77,52,0,25,,,Draft
+HG1-225,2150D,"South Parkway and Brooklands, Seacroft",45,0,0,45,,,Draft
+HG1-226,2150B,South Parkway / Brooklands Avenue,160,0,0,160,,,Draft
+HG1-227,815,South Parkway - Easel LS14,106,12,10,84,,,Draft
+HG1-228,4235,"Leslie Terrace, Woodhouse",18,0,0,18,,,Draft
+HG1-229,3346,"Former Bricklayers Arms, Low Close Street, Woodhouse",6,6,0,0,,,Draft
+HG1-230,188,"St Marks Walk - St Marks Flats, Woodhouse",108,80,28,0,,,Draft
+HG1-231,5192,"Holborn Court, Woodhouse, Leeds, LS6 2PN",17,0,0,17,,,Draft
+HG1-232,3345,"Servia Road, Leeds LS7 1NJ",72,0,0,72,,,Draft
+HG1-233,3342,LS9 6PQ,12,12,0,0,,,Draft
+HG1-234,846,Killingbeck Hospital - C LS14,156,70,57,29,,,Draft
+HG1-235,HLA2603660,Royal Park Road LS6,9,0,9,0,,,Draft
+HG1-236,HLA2602860,Moorland Avenue LS6,15,0,0,15,,,Draft
+HG1-237,HLA2603800,"25 MOORLAND AVENUE, WOODHOUSE, LEEDS, LS6 1AP",6,0,0,6,,,Draft
+HG1-238,620,Cardigan Road (214-244) LS4,65,0,0,65,,,Draft
+HG1-239,3149,"Carlton Gate, LS7",113,5,52,56,,,Draft
+HG1-240,HLA2603490,18A-20 Burley Lodge Road LS4,6,4,2,0,,,Draft
+HG1-241,HLA2603180,114 Burley Road LS4,9,0,0,9,,,Draft
+HG1-242,1144,St Johns Road - St Michaels College LS3,459,0,0,459,,,Draft
+HG1-243,HLA2603100,12-28 Westfield Road LS3,24,0,0,24,,,Draft
+HG1-244,2026,Cavendish Street - RSPCA,70,0,0,70,,,Draft
+HG1-245,2138,"Kirkstall Road, Abbey Street",50,0,0,50,,,Draft
+HG1-246,414,Skinner Lane LS9,286,0,0,286,,,Draft
+HG1-247,197,"Bridge Street, Gower Street, Regent Street (land at)",636,0,0,636,,,Draft
+HG1-248,HLA2000030,St Mary's Lane LS 9,6,0,0,6,,,Draft
+HG1-249,5150,"Dog and Gun, 601 York Road Leeds",7,0,0,7,,,Draft
+HG1-250,HLA2405240,Theaker Lane LS12,17,0,0,17,,,Draft
+HG1-251,1338,"Mistress Lane, Armley",41,0,0,41,,,Draft
+HG1-252,3354,"Oak Road, Armley",9,0,0,9,,,Draft
+HG1-253,1340A,"Oak Road, New Wortley - Former Club",6,0,0,6,,,Draft
+HG1-254,5148,Otter Island Wellington Road Leeds,113,0,113,0,,,Draft
+HG1-255,806,"East Park Road, The Glensdales LS9",32,0,14,18,,,Draft
+HG1-256,465,Waterloo Sidings LS9,140,0,0,140,,,Draft
+HG1-257,2141A,"Wykebeck Avenue, Osmondthorpe",55,0,0,55,,,Draft
+HG1-258,259A,"Cartmell Drive, Whitebridge Primary School, Halton Moor",44,7,10,27,,,Draft
+HG1-259,HLA2405110,236 Tong Road LS12,9,0,0,9,,,Draft
+HG1-260,HLA2104920,"Kings Arms, Stocks Hill, Holbeck, Leeds, LS11 9PB",9,9,0,0,,,Draft
+HG1-261,3146,"Holbeck Towers, LS11",108,0,91,17,,,Draft
+HG1-262,HLA2104210,65 Brown Lane East LS11,3,0,0,3,,,Draft
+HG1-263,379,Runswick Place LS11,42,16,26,0,,,Draft
+HG1-264,HLA2104940,"86 Elland Road, Holbeck, Leeds, LS11 0AB",8,0,0,8,,,Draft
+HG1-265,3144,"Fairfax Road, LS11",21,0,0,21,,,Draft
+HG1-266,3195,"St Luke's Green, LS11",19,0,2,17,,,Draft
+HG1-267,476,Beeston Road - Shaftesbury House LS11,8,7,1,0,,,Draft
+HG1-268,3204,"Coupland Road, LS11",10,10,0,0,,,Draft
+HG1-269,3193,"Folly Lane, LS11",18,18,0,0,,,Draft
+HG1-270,HLA2104790,"137 DEWSBURY ROAD, HUNSLET, LEEDS, LS11 5NN",8,7,1,0,,,Draft
+HG1-271,3142,"Malvern Rise, LS11",60,0,0,60,,,Draft
+HG1-272,3194,"Malvern Road, LS11",21,21,0,0,,,Draft
+HG1-273,HLA2104610,Coupland Place LS11,8,8,0,0,,,Draft
+HG1-274,3147,"Waverley Garth, LS11",55,0,0,55,,,Draft
+HG1-275,3145,"Bismarck Street, LS11",70,0,0,70,,,Draft
+HG1-276,381,Beverleys LS11 6DS,55,55,0,0,,,Draft
+HG1-277,HLA2104950,"272A Dewsbury Road, Hunslet, Leeds, LS11 6JT",5,0,0,5,,,Draft
+HG1-278,5124,Pepper Road LS10,12,0,0,12,,,Draft
+HG1-279,3343,"Belle Isle, Leeds",16,16,0,0,,,Draft
+HG1-280,473,West Grange Road (Ph 2) LS10,35,0,0,35,,,Draft
+HG1-281,474,Middleton Road - Urn Farm LS10,100,0,0,100,,,Draft
+HG1-282,500,Sharp Lane F,69,69,0,0,,,Draft
+HG1-283,503,Sharp Lane C,43,43,0,0,,,Draft
+HG1-303,2144A,"Cartmell Drive, Halton Moor",31,0,0,31,,,Draft
+HG1-357,502,Sharp Lane B,78,56,14,8,,,Draft
+MX1-6,208,"Mabgate, Macaulay Street, Argyll Road (land between)",428,0,0,428,,,Draft
+MX1-11,447,Whitehall Road - Doncasters LS12,463,0,0,463,,,Draft
+MX1-12,433,Globe Road - Doncasters/Lattitude LS11,609,0,0,609,,,Draft
+HG2-85,262,"Beckhill Approach, Miles Hill Primary School, Meanwood",79,,,,2.3,Mix 50:50,Draft
+HG2-86,263,"Beckhill Grove - former Hill Top Public House, Meanwood",14,,,,0.5,Mix 50:50,Draft
+HG2-87,817,Amberton Terrace,43,,,,1.6,Brownfield,Draft
+HG2-88,5017,"Amberton HOP, Thorn Mount, Gipton",20,,,,0.6,Brownfield,Draft
+HG2-89,814,Oak Tree Mount LS9,63,,,,2.2,Brownfield,Draft
+HG2-90,2146,"Barncroft Close, Seacroft",27,,,,0.7,Brownfield,Draft
+HG2-91,2147B,"Askets and Boggarts (B), Seacroft",150,,,,5.4,Greenfield,Draft
+HG2-92,2147D,"Askets and Boggarts (D), Seacroft",88,,,,4.4,Greenfield,Draft
+HG2-93,4110,Brooklands Avenue,26,,,,0.8,Mix 50:50,Draft
+HG2-94,816,York Road Depot/South Parkway LS14,39,,,,0.9,Brownfield,Draft
+HG2-95,2150A,"South Parkway and Brooklands, Seacroft",68,,,,1.6,Brownfield,Draft
+HG2-96,2150C,"South Parkway and Brooklands, Seacroft",65,,,,1.5,Brownfield,Draft
+HG2-97,4117,Moresdale Lane,14,,,,0.4,Greenfield,Draft
+HG2-98,4120,Hawkshead Crescent,25,,,,0.8,Greenfield,Draft
+HG2-99,125_210,Buslingthorpe Tannery/Hill Top Works Sheepscar,189,,,,3.2,Brownfield,Draft
+HG2-100,5014,Gleadhow Road/Gledhow Terrace,25,,,,0.4,Brownfield,Draft
+HG2-101,1145A,"Hudson Road, Hudson Mill (Arcadia), Burmantofts",360,,,,11.4,Brownfield,Draft
+HG2-103,4060,"Former Shaftesbury PH, York Road",23,,,,0.6,Brownfield,Draft
+HG2-104,4123,York Road / Selby Road,20,,,,0.9,Brownfield,Draft
+HG2-105,2141B,"Wykebeck Avenue, Osmondthorpe",52,,,,1.4,Greenfield,Draft
+HG2-106,2142,"Kendall Drive, Halton Moor",15,,,,0.5,Brownfield,Draft
+HG2-107,2143,"Neville Road, Halton Moor",83,,,,2.8,Brownfield,Draft
+HG2-108,5020,"Burley Willows Care Home, Willow Garth, Burley",28,,,,0.5,Brownfield,Draft
+HG2-109,226,Burley Street (46) LS3 1DH,48,,,,0.1,Brownfield,Draft
+HG2-110,1023,"Wesley Road (west of ), Tong Road (north of), Armley",38,,,,1,Greenfield,Draft
+HG2-111,3454,Land off Holdforth Place,48,,,,0.8,Brownfield,Draft
+HG2-112,1340B,"Oak Road, New Wortley - Gassey Fields",113,,,,2.3,Greenfield,Draft
+HG2-113,2027,Round House (rear of),310,,,,1,Brownfield,Draft
+HG2-114,3143,"Cambrian Street, LS11",37,,,,0.6,Greenfield,Draft
+HG2-116,4125,"Winrose Drive, Middleton",13,,,,0.4,Greenfield,Draft
+HG2-117,252,Belle Isle Road - Merlyn Rees High School,67,,,,2.2,Mix 50:50,Draft
+HG2-118,4027,"Newhall Gate, Newhall Crescent, Middleton",23,,,,0.6,Greenfield,Draft
+HG2-201,1146,"York Road (land south of), East of Pontefract lane, Richmond Hill LS9",121,,,,5.5,Mix 70:30,Draft
+MX2-7,CFSM049,"Thomas Danby College, Roundahay Road, Leeds",118,,,,4.8,Brownfield,Draft
+MX2-8,278,"Compton Road - Compton Arms, Burmantofts LS9 7B",50,,,,0.4,Brownfield,Draft
+MX2-9,"","Kirkstall Road, Leeds",826,,,,7.2,Brownfield,Draft
+MX2-10,3408,"Wellington Road, Leeds",325,,,,2.5,Brownfield,Draft
+MX2-11,1265,Armley Gyratory - former Gas Works,122,,,,5,Brownfield,Draft
+MX2-13,3015,Benyon House,37,,,,2.5,Brownfield,Draft
+HG1-58,1199A,"Moseley Wood Gardens (land off), Cookridge LS16",135,0,0,135,,,Draft
+HG1-59,3010A,"Land south east of Holt Park Leisure Centre, Holt Park, Leeds",52,0,0,52,,,Draft
+HG1-60,685,"Tile Lane - Eastmoor, Adel, LS16",67,0,0,67,,,Draft
+HG1-61,5138,505 HARROGATE ROAD LS17,6,6,0,0,,,Draft
+HG1-62,5106,"Former Squirrel Way Children's Home, Squirrel Way, Leeds, LS17 8fq",60,0,60,0,,,Draft
+HG1-63,3207,"Rear 268-274 Shadwell Lane, LS17",8,5,0,3,,,Draft
+HG1-64,5178,"Leeds Trinity University College, Brownberrie Lane, Horsforth, Leeds, LS18 5HD",29,0,0,29,,,Draft
+HG1-65,721,"Westbrook Lane, Horsforth",75,0,0,75,,,Draft
+HG1-66,720,"Westbrook Lane, Horsforth",15,0,0,15,,,Draft
+HG1-67,HLA2701370,Long Row Horsforth,7,0,0,7,,,Draft
+HG1-68,688,Silk Mill Drive LS16,20,0,0,20,,,Draft
+HG1-69,65,"Low Lane - Woodside Mill, Horsforth",59,0,0,59,,,Draft
+HG1-70,689,Cookridge Hospital LS16,495,53,16,426,,,Draft
+HG1-71,5190,"Ireland Wood Social Club, Iveson Drive, Lawnswood, Leeds, LS16 6NG",20,0,0,20,,,Draft
+HG1-72,1033,"Otley Road, Government Buildings LS16 5PU",130,0,0,130,,,Draft
+HG1-73,1299A,"Otley Road - Bodington Hall, Lawnswood LS16",126,10,39,77,,,Draft
+HG1-74,687,"Dunstarn Lane, Adel, LS16",28,0,0,28,,,Draft
+HG1-75,253,Cranmer Gardens - Moorhaven Residential Home LS17,14,6,8,0,,,Draft
+HG1-76,3151,"Queenshill Court, Moortown",6,6,0,0,,,Draft
+HG1-77,HLA3002600,468 Harrogate Road LS17,10,0,0,10,,,Draft
+HG1-78,1172,"Yorkshire Bank Sports Ground (former), LS17",29,0,11,18,,,Draft
+HG1-79,4188,"Former Grosvenor Casino, Harrogate Rd and Street Lane",13,0,13,0,,,Draft
+HG1-80,HLA3002640,"467 Street Lane, Roundhay, Leeds",6,0,0,6,,,Draft
+HG1-81,HLA3002370,Sutherland Avenue LS8,8,8,0,0,,,Draft
+HG1-82,HLA3402690,"3 Park Crescent, Roundhay, Leeds",5,5,0,0,,,Draft
+HG1-83,4177,"Park Cottages, Leeds 8",5,5,0,0,,,Draft
+HG1-84,4093,"Salmon Crescent / Stanhope Drive, Horsforth",7,0,0,7,,,Draft
+HG1-85,HLA2701430,"85 BROADGATE LANE, HORSFORTH, LEEDS, LS18",5,5,0,0,,,Draft
+HG1-86,5125,SUMMERFIELD HO OUTWOOD LN HORSFORTH,7,7,0,0,,,Draft
+HG1-87,4021,"Site of Horsforth Mills, Low Lane, Horsforth, Leeds",89,0,0,89,,,Draft
+HG1-88,8,"Otley Road, Spenfield House LS16",13,0,0,13,,,Draft
+HG1-89,764,Woodlea Drive - The Mansion LS6,25,0,0,25,,,Draft
+HG1-90,762,Chandos Avenue LS8,1,1,0,0,,,Draft
+HG1-91,3341,LS8 2JJ,5,0,5,0,,,Draft
+HG1-92,124,"Park Avenue (1) - Beech Lodge, Roundhay",4,4,0,0,,,Draft
+HG1-93,3301,"128 Wetherby Road, Roundhay, Leeds, LS8 2JZ",5,0,4,1,,,Draft
+HG1-94,5177,"Land At Lakestream House, 142 Wetherby Road, Leeds, LS8 2LF",7,0,0,7,,,Draft
+HG1-95,3215,"The Grove, North Lane, LS8",6,6,0,0,,,Draft
+HG1-96,34,"Low Hall Road -Riverside Mill, Horsforth LS19",82,0,0,82,,,Draft
+HG1-97,1339,"Calverley Lane, Horsforth - Clariant UK Ltd LS18 4RP",331,34,61,236,,,Draft
+HG1-98,731,"Victoria Avenue, Horsforth",6,0,0,6,,,Draft
+HG1-99,HLA2701470,"Low Fold Garage, New Road Side, Horsforth, Leeds",5,0,0,5,,,Draft
+HG1-100,4055,"Former Police Station, Broadway, Horsforth",12,4,8,0,,,Draft
+HG1-101,HLA2701410,"Throstle Nest Villa, New Road Side",8,0,0,8,,,Draft
+HG1-102,5176,"29 - 31 Moor Road, Headingley, Leeds, LS6 4BG",32,0,0,32,,,Draft
+HG1-103,174,"Moor Road (40/42) - University of Leeds, Tetley Hal",68,0,0,68,,,Draft
+HG1-104,5188,"13 - 17 Shaw Lane, Meanwood, Leeds, LS6 4DH",31,0,0,31,,,Draft
+HG1-105,HLA2603920,"8 Holly Bank, Otley Road, Headingley, Leeds, LS6 4DJ",7,7,0,0,,,Draft
+HG1-106,3,Monk Bridge Road (3) LS6,9,0,0,9,,,Draft
+HG1-107,5112,"Stratford Court, School Lane, Chapel Allerton",28,0,28,0,,,Draft
+HG1-108,845,Mansion Gate Drive - Mansion House LS7,37,0,0,37,,,Draft
+HG1-109,HLA3402660,"321 Chapeltown Road, Chapeltown, Leeds, LS7 3LL",6,6,0,0,,,Draft
+HG1-110,HLA3402640,"2 ST MARTIN'S ROAD, LEEDS, LS7 3LX",5,0,0,5,,,Draft
+HG1-111,106,Newton Green - former Civil Service Sports Association Ground,14,0,0,14,,,Draft
+HG1-112,5183,"Elton Lodge, Newton Road",9,0,0,9,,,Draft
+HG1-113,3184,"Former Dutton Arms (PH), Queenswood Drive",9,8,0,1,,,Draft
+HG1-114,3201,"The Former Lounge Cinema, North Lane, Headingley",12,12,0,0,,,Draft
+HG1-115,HLA2602780,25-7 Bennett Road LS6,8,3,5,0,,,Draft
+HG1-116,HLA2603760,"51 - 61 Otley Road And 3 - 9 North Lane, LS6",14,0,0,14,,,Draft
+HG1-117,HLA2603820,"GRANBY STREET, HEADINGLEY, LEEDS, LS6",5,0,0,5,,,Draft
+HG1-118,4179,"19 Shire Oak Road, LS6",6,6,0,0,,,Draft
+HG1-119,4184,"Belmont House, Wood Lane, LS6",6,0,0,6,,,Draft
+HG1-120,HLA2603310,1 North Grange Mount LS6,11,0,0,11,,,Draft
+HG1-121,6,"Kirkstall Lane, Victoria Home LS6",50,50,0,0,,,Draft
+HG1-122,HLA2603270,45 St Michael's Lane LS6,41,0,0,41,,,Draft
+HG1-123,5102,"Headingley Halls Of Residence 54 - 56 Headingley Lane, Headingley, Leeds, LS6 2BP",39,39,0,0,,,Draft
+HG1-124,HLA2404950,Eden Mount LS4,17,0,0,17,,,Draft
+HG1-125,1092,"St Ann's Lane - former Boston Exchange Diner), Leeds LS4 2SE",12,12,0,0,,,Draft
+HG1-126,4182,"St Anns Lane, LS4 2SE",13,13,0,0,,,Draft
+HG1-127,4058A,"Land at 116 Cardigan Road, Headingley",14,0,0,14,,,Draft
+HG1-128,HLA2404860,83 Cardigan Lane LS4,22,0,0,22,,,Draft
+HG1-129,3217,"232 Burley Road, LS4",7,7,0,0,,,Draft
+MX1-2,376,"Ring Road West Park, Silk Mill Way and Iveson Drive Iveson Drive",485,0,0,485,,,Draft
+MX1-3,626,Abbey Road - Kirkstall Forge LS5,970,0,0,970,,,Draft
+HG2-30,4216,Eyrie Public House,14,,,,0.4,Brownfield,Draft
+HG2-31,4000,"Ralph Thoresby (Site F) Holt Park, Leeds",15,,,,0.4,Greenfield,Draft
+HG2-32,4217,Cookridge Fire Station,15,,,,0.4,Brownfield,Draft
+HG2-33,3010B,"Land south east of Holt Park Leisure Centre, Holt Park, Leeds",28,,,,0.8,Brownfield,Draft
+HG2-34,4233,"Farrar Lane, Adel",16,,,,0.9,Brownfield,Draft
+HG2-37,3384,Brownberrie Lane,12,,,,0.8,Greenfield,Draft
+HG2-40,81,"High Moor Court (land at rear), High Moor Avenue, Moor Allerton",20,,,,0.9,Greenfield,Draft
+HG2-41,4240,South of A65 from Horsforth & Rawdon RA to crematorium,777,,,,36.3,Greenfield,Draft
+HG2-44,235,Clarence Road (land at) - Horsforth LS18 4LB,25,,,,0.7,Brownfield,Draft
+HG2-45,4057,"St Joseph's, Outwood Lane, Horsforth",30,,,,0.8,Mix 50:50,Draft
+HG2-47,37,"Vesper Road (land at), Kirkstall LS5 3NU",17,,,,0.5,Brownfield,Draft
+HG2-48,3457,Weetwood Manor,32,,,,0.9,Greenfield,Draft
+HG2-49,3376,"Off Weetwood Avenue, Headingley, Leeds",30,,,,4,Greenfield,Draft
+HG2-50,1242,"Church Lane - Paddock, Meanwood LS6",25,,,,0.7,Greenfield,Draft
+HG2-51,2055,"Carr Manor, Meanwood LS6",15,,,,4.3,Mix 70:30,Draft
+HG2-52,4058B,"Land at Cockcroft House, Cardigan Road, Headingley",13,,,,0.3,Brownfield,Draft
+HG2-87,817,Amberton Terrace,14,,,,1.6,Brownfield,Draft
+MX2-3,97,"Meanwood Road Working Mens Club, Meanwood Road",9,,,,0.5,Brownfield,Draft
+MX2-4,3014,Kirkstall District Centre,55,,,,3.6,Brownfield,Draft
+HG2-29,1199B,"Moseley Wood Gardens (land off), Cookridge LS16",63,,,,2.4,Greenfield,Draft
+HG2-36,2053B,"Alwoodley Lane, Alwoodley LS17",285,,,,13.4,Greenfield,Draft
+HG2-38,1178A,"Dunstarn Lane (land south), Adel LS16",68,,,,2.2,Greenfield,Draft
+HG2-42,1016,"Broadway and Calverley Lane, Horsforth",18,,,,0.6,Greenfield,Draft
+HG2-43,5009,Horsforth Campus,206,,,,7.8,Mix 50:50,Draft
+HG2-46,1062,Horsforth (former waste water treatment work),53,,,,3.1,Greenfield,Draft
+HG1-27,787,"Linton Springs, Sicklinghall Road, Linton",16,0,0,16,,,Draft
+HG1-28,1046,"Land rear of 18 to 28 Ashburn Drive, Ashburn Close, 2 to 14 Glebe Field Chase and Land rear of 64 Spofforth Hill, Wetherby",325,0,0,325,,,Draft
+HG1-29,793,"Linton Road - Raintree Lodge, Wetherby",4,0,0,4,,,Draft
+HG1-30,3186,Wetherby Health Centre,8,0,0,8,,,Draft
+HG1-31,HLA3104340,"FORMER GEORGE & DRAGON, HIGH STREET, WETHERBY, LS22 6LT",2,2,0,0,,,Draft
+HG1-32,4076,"Site of Benfield Motors, Deighton Road, Wetherby",56,0,0,56,,,Draft
+HG1-33,5139,HALLFIELD LANE WETHERBY,9,7,2,0,,,Draft
+HG1-34,4074,"Site of Forensic Science Services, Sandbeck Way, Wetherby",57,0,0,57,,,Draft
+HG1-35,71,"Thorp Arch Grange, Walton Road, Thorp Arch",14,14,0,0,,,Draft
+HG1-36,103,Moor End (7-14) - Boston Spa LS23 6ER,9,0,0,9,,,Draft
+HG1-37,777,"Churchfields, Boston Spa",170,121,34,15,,,Draft
+HG1-38,HLA3104350,"REAR OF 134-140 HIGH STREET, BOSTON SPA, WETHERBY, LS23 6BW",6,3,0,3,,,Draft
+HG1-39,90,"Church Lane (27) - St Vincents School, Boston Spa",13,0,0,13,,,Draft
+HG1-40,HLA3104250,201 HIGH STREET BOSTON SPA,10,0,10,0,,,Draft
+HG1-41,757,Harewood Village Farm,18,6,8,4,,,Draft
+HG1-42,780,"First Avenue, Bardsey",5,0,0,5,,,Draft
+HG1-43,5126,"Keswick La, Bardsey",10,0,0,10,,,Draft
+HG1-44,1127,"Woodacre Green and Bankfield (land to south), Bardsey",14,5,9,0,,,Draft
+HG1-45,3353,Wetherby LS23 6HJ,5,5,0,0,,,Draft
+HG1-46,HLA3100390,"Land To Rear Of 20-30 Syke Lane, Scarcroft, Leeds",9,0,0,9,,,Draft
+HG1-47,785,"Syke Lane/Moses Syke, Scarcroft",11,11,0,0,,,Draft
+HG1-48,1041,"Wetherby Road (land to east at Castle Mona Lodge), Scarcroft",11,0,0,11,,,Draft
+HG1-49,HLA3104180,THE BIGGIN GREAT NORTH ROAD BRAMHAM,7,0,0,7,,,Draft
+HG1-50,783,"Bowcliffe Road Timber Yard, Bramham",14,0,0,14,,,Draft
+HG1-51,778,"Bowcliffe Road - Bramham House, Bramham",30,0,0,30,,,Draft
+HG1-52,786,Aberford Road - Bramham Lodge,11,11,0,0,,,Draft
+HG1-53,3152,"Spen Common Lane, Bramham",9,0,0,9,,,Draft
+HG1-54,4070,"Black Horse Farm, South Approach, Aberford",5,0,5,0,,,Draft
+HG1-55,798,"Station Road (37-51), Scholes",1,1,0,0,,,Draft
+HG1-56,3223,"Elmhurst, Elmwood Lane, Barwick In Elmet",1,1,0,0,,,Draft
+HG1-57,4072,"White House Farm, Bunkers Hill, Aberford, LS25",5,0,0,5,,,Draft
+HG1-288,797,East Leeds Extension,675,0,0,675,,,Draft
+HG2-19,5166,Land at Sandbeck Lane Wetherby,165,,,,6.3,Greenfield,Draft
+HG2-20,4075,"Mercure Hotel, Wetherby Road, Wetherby",67,,,,1.9,Brownfield,Draft
+HG2-26,15,"Wetherby Road - Scarcroft Lodge, Scarcroft",130,,,,5.8,Brownfield,Draft
+MX2-33,3391,"Headley Hall, Bramham, Leeds",3000,,,,276,Greenfield,Draft
+HG2-22,1154,"Church Street (land to east of), Boston Spa LS23",19,,,,1.1,Greenfield,Draft
+HG2-23,3132,Church Street,17,,,,0.6,Greenfield,Draft
+HG2-24,1153,"Keswick Lane (land to north of), Bardsey - site of The Blessed Sacrament Church",10,,,,0.4,Brownfield,Draft
+HG2-25,4150,"Farfield House, Bramham",14,,,,0.5,Brownfield,Draft
+HG2-28,4068,"Land to the East of Belle Vue Avenue, Scholes",15,,,,0.6,Greenfield,Draft
+HG3-7,2136,"The Ridge, Linton","",,,,4.1,100,Draft
+HG3-8,2135,Leeds Road Collingham,"",,,,6.5,100,Draft
+HG3-9,2137,"West Park, Boston Spa","",,,,4.1,110,Draft
+HG3-10,1008,"Grove Road, Boston Spa","",,,,3.9,103,Draft
+HG3-11,1167,"Chapel Lane (land to the east of), Clifford LS23","",,,,1.6,36,Draft
+HG3-12,1061,"Wood Lane (land off), and east of the former railway, Scholes, LS15","",,,,1.9,60,Draft
+HG3-13,2134,Scholes (east of),"",,,,32.1,850,Draft
+HG1-15,744,"Rumplecroft, Otley",135,"",0,"",,,Draft
+HG1-16,317,"Wharfedale General Hospital, Newall Carr Road, Otley",61,"",61,"",,,Draft
+HG1-17,749,"Prince Henry Court, Newall Carr Road, Otley",3,"",3,"",,,Draft
+HG1-18,7,"Bridge Street - All Saints Mill, Otley LS21 1BQ",48,"",0,"",,,Draft
+HG1-19,3348,"The Manor House And Clitherow House, Our Lady And All Saints Church, Manor Square, Otley",6,"",6,"",,,Draft
+HG1-20,HLA2901390,"23-5 Manor Square, Otley",8,"",0,"",,,Draft
+HG1-21,5181,"Development Engineering Services, Ilkley Road, Otley",12,"",0,"",,,Draft
+HG1-22,3190,"Manor Garage, Leeds Road, Otley",14,"",14,"",,,Draft
+HG1-23,5127,"The Tannery, Leeds Road, Otley, LS21 1QX",10,0,0,10,,,Draft
+HG1-24,745,Otley (east of),550,0,0,550,,,Draft
+HG1-25,364,"Creskeld Crescent (11) - Bramwood, Bramhope LS16",8,0,0,8,,,Draft
+HG1-26,684,"Church Lane, Adel LS16",45,45,0,0,,,Draft
+MX1-1,1122,"Mill Lane - Garnetts Paper Mill, Otley",245,25,33,187,,,Draft
+HG2-13,4259,"Former Inglewood Children's Home, White Croft Garth, Otley",16,,,,0.4,Mix 50:50,Draft
+HG2-14,2035,"East Chevin Road, Otley",54,,,,1.5,Brownfield,Draft
+MX2-1,320,"Westgate - Ashfield Works, Otley",50,,,,1.9,Brownfield,Draft
+MX2-2,313,"Westgate, Otley",15,,,,0.8,Brownfield,Draft
+HG2-18,2130,"Church Lane, Adel",58,,,,15.6,Greenfield,Draft
+HG2-15,3400,Green Acres and Equestrian Centre,42,,,,1.5,Greenfield,Draft
+HG2-16,1002,"Creskeld Lane, Bramhope - land to rear of no. 45",23,,,,1.5,Greenfield,Draft
+HG2-17,1080_3367A,"Breary Lane East, Bramhope, LS16",376,,,,19.3,Greenfield,Draft
+HG3-5,1095B,"Old Pool Bank (land at), Pool in Wharfedale, Otley LS21","",,,,12,280,Draft
+HG3-6,1369,"Old Pool Bank, Pool in Wharfedale, Otley, LS21","",,,,11.1,260,Draft
+HG1-397,5101,"Woodland Hotel, Wood Lane, Rothwell, Leeds LS26 0ph",12,0,0,12,,,Draft
+HG1-398,519,"Holmsley Lane - Langdale PS, Woodlesford",3,0,1,2,,,Draft
+HG1-399,3300,"Former White Hart Hotel, 40 Church Street, Woodlesford, Leeds",7,7,0,0,,,Draft
+HG1-400,499,"Aberford Road, Woodlesford",21,0,0,21,,,Draft
+HG1-401,498,"Pottery Lane, Woodlesford",41,0,0,41,,,Draft
+HG1-402,HLA2202260,"The Chapel, Calverley Road, Oulton",8,0,8,0,,,Draft
+HG1-403,334,"Fleet Lane (land off), Oulton",77,0,13,64,,,Draft
+HG1-404,HLA2202010,"Marsh Street, Rothwell",6,0,0,6,,,Draft
+HG1-405,HLA2201950,Swithin Street Rothwell,8,"",0,0,,,Draft
+HG1-406,335,"Royds Lane (land off), Rothwell",90,"",0,0,,,Draft
+HG1-407,5149,"China Red Dragon, 3 Wakefield Road, Oulton",74,"",0,0,,,Draft
+HG1-408,5129,"Sharp Lane, Robin Hood",9,"",0,1,,,Draft
+HG1-409,4192,"Land At Shayfield Lane, Carlton, WF3",14,"",0,0,,,Draft
+HG1-410,507,"Main Street, Carlton",15,"",0,0,,,Draft
+HG1-411,133,"Royds Green - Royds Green Farm, Oulton LS26 8EZ",7,"",0,7,,,Draft
+HG1-412,2129A,Mickletown Road Methley,6,"",0,0,,,Draft
+HG1-413,2129B,"Site of Shann Hall bounded by Balmoral Drive Longbow Avenue and Station Road, Methley, Leeds",181,"",0,0,,,Draft
+HG1-414,5128,Main Street Mickletown,10,"",0,0,,,Draft
+HG1-415,515,"Main Street, former Bay Horse Public House, Methley",2,"",1,1,,,Draft
+HG1-416,523,"Pinfold Lane, Methley WMC, Methley",6,"",0,0,,,Draft
+HG1-417,269,"Little Church Lane, Methley Infants School, Methley",12,"",12,0,,,Draft
+HG1-418,135,"Leeds Road - Lofthouse Hall, Lofthouse WF3",8,"",0,4,,,Draft
+HG2-176,4082,"Windlesford Green Hostel, Woodlesford",26,,,,0.7,Brownfield,Draft
+HG2-177,136,"Alma Villas (site at), Woodlesford LS26 8PW",12,,,,0.7,Mix 60:40,Draft
+HG2-178,143,"Aberford Road - site of Glenoit and Minerva Mills, Oulton",70,,,,2.3,Brownfield,Draft
+HG2-182,129A,"Main Street and Pitfield Road, Carlton, Wakefield",36,,,,1.1,Brownfield,Draft
+MX2-14,130,"Aberford Road (77/79), Oulton LS26 8HS",50,,,,1.3,Brownfield,Draft
+HG2-173,1049_1058,Haighside Rothwell,578,,,,22,Greenfield,Draft
+HG2-174,1359,Wood Lane - Rothwell Garden Centre LS26,52,,,,3.2,Mix 50:50,Draft
+HG2-175,1259B,"Bullough Lane - Haigh Farm (land adjacent to), Rothwell Haigh LS26 0JY",154,,,,8.1,Greenfield,Draft
+HG2-179,1035,"Fleet Lane / Eshald Lane (land at), Oulton LS26 8HT",40,,,,1.3,Greenfield,Draft
+HG2-180,4222A_B_C,Land between Fleet Lane & Methley Lane Oulton,322,,,,14.9,Greenfield,Draft
+HG2-183,1365A,"Swithens Lane, Rothwell, Leeds LS26 0BS",136,,,,3.2,Greenfield,Draft
+HG2-181,3445A,"Land at Leadwell Lane, Robin Hood",60,,,,2.3,Greenfield,Draft
+HG2-184,3088,"Westgate Lane, Lofthouse",31,,,,1.1,Greenfield,Draft
+HG2-185,1261_4220,Church Farm Lofthouse,188,,,,8,Mix 70:30,Draft
+HG2-186,289,"Main Street, Hunts Farm, Methley",25,,,,1.2,Greenfield,Draft
+HG3-26,129B,"Main Street and Pitfield Road, Carlton, Wakefield","",,,,4.2,115,Draft
+HG3-27,1224,"Church Lane (land south of), Mickletown","",,,,2.5,55,Draft
+HG3-28,1225C,"Pinfold Lane (land west of), Mickletown","",,,,2.2,50,Draft
+HG1-304,822,"Barrowby Lane, Garforth",33,26,0,7,,,Draft
+HG1-305,820,Micklefield (south of),150,0,0,150,,,Draft
+HG1-306,825,"Manor Farm buildings, Micklefield",14,0,0,14,,,Draft
+HG1-307,1118,"Church Lane and Manor Farm (existing phase 3 housing allocations), Micklefield",400,10,0,390,,,Draft
+HG1-308,836,"Barleyhill Road, Garforth",30,14,16,0,,,Draft
+HG1-309,HLA3306630,Beech Grove Avenue Garforth,9,0,0,9,,,Draft
+HG1-310,4083,"Grange Court, Garforth",58,0,0,58,,,Draft
+HG1-311,2040,"Bullerthorpe Lane (Temple Point), Colton",69,69,0,0,,,Draft
+HG1-312,823,"Selby Road, Garforth",68,"",68,0,,,Draft
+HG1-313,HLA3306670,"Land Off Birch Grove, Kippax, Leeds",6,"",6,0,,,Draft
+HG1-314,HLA3300450,Church Lane Swillington,14,"",6,0,,,Draft
+HG1-315,3352,51 Westfield Lane Kippax,6,"",0,0,,,Draft
+HG1-316,4196,"Royal Oak, Cross Hills, Kippax",11,"",6,5,,,Draft
+HG1-317,3351,"2 Brigshaw Lane, Allerton Bywater",8,"",0,0,,,Draft
+HG1-318,HLA3306660,"Queens Court, Queen St Allerton Bywater",9,"",0,0,,,Draft
+HG1-319,298,"Queen Street - Hollinshurst Depot, Allerton Bywater",76,"",0,1,,,Draft
+HG1-320,819,"Queen Street, (a.k.a land south of Leeds Road), Allerton Bywater",114,"",106,7,,,Draft
+HG1-321,5193,"Land Adjacent To West Court, Park Lane, Allerton Bywater, Castleford, WF10 2AJ",5,"",0,0,,,Draft
+HG1-322,818,"Station Road, Allerton Bywater",222 1302,"",31 342,33 62,,,Draft
+HG2-124,1232B,"Stourton Grange Farm South, Selby Road - Ridge Road, Garforth",2314,,,,132.9,Greenfield,Draft
+HG2-129,265,"Ash Tree Primary School, Kippax",22,,,,0.5,Brownfield,Draft
+HG2-130,5013,"Land at 25 - 29 high Street, Kippax",16,,,,0.4,Brownfield,Draft
+HG2-135,310,"Barnsdale Road, Allerton Bywater",49,,,,1.8,Brownfield,Draft
+HG2-125,1176,"Pit Lane (land to south of), Micklefield LS25",79,,,,4.3,Greenfield,Draft
+HG2-126,1174,"Micklefield Railway Station Car Park (land to north of), Micklefield, LS25",18,,,,0.7,Greenfield,Draft
+HG2-127,4200B,"Newtown Farm, Micklefield",42,,,,1.6,Greenfield,Draft
+HG2-128,3109C,"Selby Road/Leeds Road, Kippax",40,,,,1.5,Greenfield,Draft
+HG2-131,3100B,"Whitehouse Lane, Great Preston",40,,,,1.2,Greenfield,Draft
+HG2-132,1175A,"Brigshaw Lane (land to east of), Kippax",76,,,,3,Greenfield,Draft
+HG2-133,1357,"Ninevah Lane, Allerton Bywater",57,,,,2.9,Mix 50:50,Draft
+HG2-134,827,"Carlton View, Allerton Bywater",25,,,,0.9,Greenfield,Draft
+HG3-18,2132,Selby Road Garforth,18,500,,,,,Draft
+HG3-19,2131,Moorgate Kippax,8.9,166,,,,,Draft
+HG3-20,1149A,"Park Lane / Doctor's Lane (land off), Allerton Bywater",40.6,950,,,,,Draft
+HG1-283,503,Sharp Lane C,42,42,"",0,,,Draft
+HG1-323,52,"Whitehall Road - The Print Factory , Lower Wortley",15,4,"",7,,,Draft
+HG1-324,608,Whitehall Road - Dunlop and Ranken LS12,1,0,"",1,,,Draft
+HG1-325,637,"Royds Lane, Wortley, LS12",154,0,"",1,,,Draft
+HG1-326,3199,"Cottingley Gate, LS11",3,0,"",3,,,Draft
+HG1-327,481,Barkly Road LS11,25,0,"",0,,,Draft
+HG1-328,HLA2104510,Green Lane LS11,13,0,"",0,,,Draft
+HG1-329,HLA2104900,"1 Low Moor Terrace, Dewsbury Road,Hunslet, Leeds,LS11 7E",5,5,"",0,,,Draft
+HG1-330,5189,"Drighlington Junior School, Whitehall Road, Drighlington, Bradford, BD11 1LN",9,0,"",0,,,Draft
+HG1-331,5113,"2 Back Lane, Drighlington, BD11 1LS",6,0,"",0,,,Draft
+HG1-332,533,"Whitehall Road, Drighlington",29,29,0,0,,,Draft
+HG1-333,1077,"Site of Nethertown Farm and Site adjacent to 13 Old Lane, Drighlington, Bradford",20,0,0,20,,,Draft
+HG1-334,5131,"Reedsdale Gardens, Gildersome",15,0,0,15,,,Draft
+HG1-335,5100,"Leeds Valve Co Ltd, 23 - 25 Town End, Gildersome, Morley, Leeds, LS27 7HF",9,0,0,9,,,Draft
+HG1-336,3216,"Wakefield Road, Drighlington",5,0,0,5,,,Draft
+HG1-337,HLA2303730,224 Wakefield Rd Drighlington,5,5,0,0,,,Draft
+HG1-338,1126,"Bradford Road (land at), Drighlington",26,0,26,0,,,Draft
+HG1-339,3218,"18 Bradford Road, Gildersome",4,4,0,0,,,Draft
+HG1-340,3428,"Land off Daisy Hill Close, Morley, Leeds",14,0,0,14,,,Draft
+HG1-341,338,"Daisy Hill, Churwell, Morley",92,67,17,8,,,Draft
+HG1-342,3224,"Hilltop Gar, Victoria Road, Churwell",3,3,0,0,,,Draft
+HG1-343,HLA2304180,"Chapel Hill, Morley LS27 9JH",1,1,0,0,,,Draft
+HG1-344,563,"Albert Road, Morley",40,0,0,40,,,Draft
+HG1-345,HLA2304270,"Kennedys Mill, Albert Road, Morley, Leeds, LS27 8PF",5,0,0,5,,,Draft
+HG1-346,4198,"St Marys Congregational Church, Morley",18,0,0,18,,,Draft
+HG1-347,HLA2304260,"Commercial Street, Morley, Leeds, LS27 8HX",6,6,0,0,,,Draft
+HG1-348,HLA2304280,"Former Peel Court Residential Home, 84 Peel Street, Morley, Leeds",9,9,0,0,,,Draft
+HG1-349,5137,SOUTH PARADE MORLEY,9,0,9,0,,,Draft
+HG1-350,547,"South Street - Park Mills, Morley",33,0,0,33,,,Draft
+HG1-351,1285,"Owlers Farm PAS , Wide Lane, Morley",114,0,0,114,,,Draft
+HG1-352,5107,"Middleton Park Grove, Middleton",12,12,0,0,,,Draft
+HG1-353,509,"Lingwell Road, Middleton LS10",128,87,0,17,,,Draft
+HG1-354,4031,"Thorpe Road, Thorpe Crescent, Thorpe View, Middleton",25,0,0,25,,,Draft
+HG1-355,3161,"Acre Mount, Middleton",20,0,0,20,,,Draft
+HG1-356,501,Sharp Lane A,116,114,2,0,,,Draft
+HG1-357,502,Sharp Lane B,105,78,17,10,,,Draft
+HG1-358,3185,"Beech Works, Worrall Street, Morley",11,11,0,0,,,Draft
+HG1-359,552,Parkfield Mills Fountain St Morley,8,8,0,0,,,Draft
+HG1-360,3188,"Corporation Street, Morley",22,0,0,22,,,Draft
+HG1-361,559,"Chartists Way, Morley",51,0,51,0,,,Draft
+HG1-362,HLA2304170,Land Adj To 5 King Street Morley,9,9,0,0,,,Draft
+HG1-363,HLA2302950,South Queen Street Morley,44,41,0,3,,,Draft
+HG1-364,HLA2304310,"Land At Junction Of St Pauls Street, South Queen, Street, Morley, Leeds",7,0,0,7,,,Draft
+HG1-365,HLA2304210,"THE FORMER SYCAMORE PUBLIC HOUSE, HIGH STREET, MORLEY, LEEDS",6,0,0,6,,,Draft
+HG1-366,5133,Bridge Street Morley,11,0,0,11,,,Draft
+HG1-367,HLA2303950,Hollow Top Mill Bridge Street Morley,9,5,4,0,,,Draft
+HG1-368,2100A,"Throstle Lane Playing Fields, Middleton LS10",140,0,0,140,,,Draft
+HG1-369,493,"Milner Lane, Robin Hood",72,71,0,1,,,Draft
+HG1-370,1281A,"Bruntcliffe Road, Morley",173,0,52,121,,,Draft
+HG1-371,1281B,"Bruntcliffe Road, Morley",61,0,0,61,,,Draft
+HG1-372,4187,"Cross Hall School House, Morley",13,13,0,0,,,Draft
+HG1-373,5191,"Summerfield Court Residential Home, Britannia Road Morley, Leeds, LS27 0DN",7,0,0,7,,,Draft
+HG1-374,516,"Lingwell Gate Lane, Thorpe",9,9,0,0,,,Draft
+HG1-375,3350,309 Leeds Road Lofthouse,5,4,0,1,,,Draft
+HG1-376,3222,"Blackgates, Bradford Road, Tingley",5,5,0,0,,,Draft
+HG1-377,3212,"Common Lane, East Ardsley",10,10,0,0,,,Draft
+HG1-378,494,"Ardsley Sidings, East Ardsley",174,89,14,71,,,Draft
+HG1-379,495,"Fall Lane (West), East Ardsley",64,0,0,64,,,Draft
+HG1-380,5132,"Howley Hall Farm, Scotchman Lane, Morley, Leeds, LS27 0NX",8,0,0,8,,,Draft
+HG1-381,4052,"Syke Road, Woodkirk",6,0,0,6,,,Draft
+HG1-382,525,Haigh Moor Road / Westerton Road,5,5,0,0,,,Draft
+HG1-383,1330A,"Haigh Moor Road - Jude's Point, West Ardsley, WF3 1EF Plan App 12/01850/RM",32,29,3,0,,,Draft
+HG1-384,HLA2304220,"7 & 9 HAIGH MOOR ROAD, WEST ARDSLEY, WF3 1ED",5,0,0,5,,,Draft
+HG1-385,1038,"Waterword Close (7a), Tingley WF3 1QL",12,3,9,0,,,Draft
+HG1-386,4186,"Westerton Rd and Waterwood Close, Tingley",14,12,2,0,,,Draft
+HG1-387,544,"Bradford Road, East Ardsley",12,4,8,0,,,Draft
+HG1-388,5117,Timber Tops Forsythia Avenue East Ardsley,8,0,0,8,,,Draft
+HG1-389,5130,"Fall Lane, East Ardsley",35,0,0,35,,,Draft
+HG1-390,527,"Ardsley Common, Bradford Road",23,1,1,21,,,Draft
+HG1-391,HLA2304230,"BRAMLEY HOUSE, REAR OF 31/93 BRADFORD ROAD",7,0,0,7,,,Draft
+HG1-392,375,"Main Street - The Old Hall Yard, East Ardsley WF3 2AP",6,0,0,6,,,Draft
+HG1-393,551,"Baghill Lane - Manor House Farm, West Ardsley",6,0,6,0,,,Draft
+HG1-394,536,"Woolin Crescent, West Ardsley",28,0,0,28,,,Draft
+HG1-395,3214,"Batley Road, WArdsley",5,3,0,2,,,Draft
+HG1-396,HLA2304330,Land Adjacent 10 Woollin Avenue West Ardsley WF3 1EX,6,4,0,2,,,Draft
+HG2-137,3386,"Royds Lane, Wortley, Leeds",111,,,,3.6,Brownfield,Draft
+HG2-138,4002,"Park Lees site, St Anthony's Road, Beeston",18,,,,0.5,Brownfield,Draft
+HG2-139,341,"Old Lane - Jubilee Works, Beeston",44,,,,1.2,Brownfield,Draft
+HG2-140,3394,"Dewsbury Road, Leeds, LS11 7DF",60,,,,1.8,Brownfield,Draft
+HG2-141,5008,Westland Road,61,,,,2,Mix 50:50,Draft
+HG2-142,333,"Whitehall Road (off), Drighlington BD11 1BX",49,,,,1.6,Brownfield,Draft
+HG2-146,3378,"Geldered Road, Leeds",85,,,,3.8,Brownfield,Draft
+HG2-151,5147,Land at Parkwood Road Beeston,19,,,,0.5,Brownfield,Draft
+HG2-152,1319,"Albert Road (land north of), Morley",63,,,,2.6,Greenfield,Draft
+HG2-153,1284A_4211,Albert Drive Morley,121,,,,4.6,Mix 50:50,Draft
+HG2-154,1320,"Albert Drive - Lower Moor Farm, Morley",190,,,,7.2,Greenfield,Draft
+HG2-155,4053,Joseph Priestly College,14,,,,0.4,Brownfield,Draft
+HG2-156,2036,"Rod Mills Lane, High Street, Morley",15,,,,1.8,Brownfield,Draft
+HG2-157,137A,"Britannia Road, Morley",58,,,,1.6,Greenfield,Draft
+HG2-158,141,"Tingley Mills, Tingley Common, Morley",36,,,,1,Brownfield,Draft
+HG2-159,2098A_C,"Sissons Farm, Middleton LS10",222,,,,8.2,Greenfield,Draft
+HG2-160,4034,"Acre Road, Sissons Drive, Middleton",14,,,,0.4,Brownfield,Draft
+HG2-161,4035,"Throstle Mount, Middleton",15,,,,0.4,Mix 60:40,Draft
+HG2-164,4032,"Thorpe Road, Thorpe Square, Middleton",26,,,,0.7,Brownfield,Draft
+HG2-165,4004,"Thorpe Hill Farm, Lingwell Gate Lane, Thorpe",57,,,,2.2,Brownfield,Draft
+HG2-166,1029,"Long Thorpe Lane (land off), Thorpe, Wakefield WF3 3BZ",17,,,,0.6,Greenfield,Draft
+HG2-167,1143B_D,"Old Thorpe Lane (land at), Tingley WF3",619,,,,27.6,Greenfield,Draft
+HG2-172,562,Fall Lane - East Ardsley PS,25,,,,0.8,Brownfield,Draft
+HG2-136,1171B,Whitehall Road (south of) - Harpers Farm,279,,,,10.7,Greenfield,Draft
+HG2-149,1282,"Lane Side Farm, PAS Morley",542,,,,20.6,Greenfield,Draft
+HG2-150,1220A,Churwell (land to the east of) LS27,213,,,,10.7,Greenfield,Draft
+HG2-168,3373A,"Haigh Wood, Ardsley",108,,,,4.8,Greenfield,Draft
+HG2-169,3373C,"Haigh Wood, Ardsley",262,,,,11.7,Greenfield,Draft
+HG2-143,2124_3003,King Street/Spring Gardens Drighlington,250,,,,10.8,Greenfield,Draft
+HG2-144,1344,"Westfield Farm, Drighlington BD11",17,,,,0.6,Greenfield,Draft
+HG2-145,3000_3064,Bradford Road/Wakefield Road Gildersome,393,,,,18.4,Greenfield,Draft
+HG2-147,1200A,"Highfield Drive/Harthill Lane (land off), Gildersome LS27",76,,,,3.4,Greenfield,Draft
+HG2-148,3060A,"Gelderd Road/M621, Gildersome",203,,,,7.9,Greenfield,Draft
+HG2-170,3456A,Land off Haigh Moor Road,41,,,,1.6,Greenfield,Draft
+HG2-171,"",Westerton Road East Ardsley,213,,,,8.4,Greenfield,Draft
+HG1-130,1337,Harrogate Road - Stylo House Apperley Bridge Bradford BD10,17,0,17,0,,,Draft
+HG1-131,602,Pollard Lane LS13,136,0,77,59,,,Draft
+HG1-132,HLA2503350,"Ross Studios, Rodley Lane, Rodley, Leeds",8,0,8,0,,,Draft
+HG1-133,2121,"Calverley Lane, Farsley",70,0,0,70,,,Draft
+HG1-134,645,"Bagley Lane, Farsley",45,40,1,4,,,Draft
+HG1-135,5110,"Springfield Iron Works, Bagley Lane, Farsley",11,0,0,11,,,Draft
+HG1-136,658,"Bank Bottom Mills, Farsley",32,32,0,0,,,Draft
+HG1-137,652,"Cherry Tree Drive, Farsley",13,0,0,13,,,Draft
+HG1-138,648,"Cherry Tree Drive, Farsley",10,0,0,10,,,Draft
+HG1-139,5120,Whitecote Hill LS13,5,0,5,0,,,Draft
+HG1-140,3304,"The Old Vic, 17 Whitecote Hill, Bramley, Leeds",6,0,0,6,,,Draft
+HG1-141,HLA2405290,"Hayley's Yard, Upper Town Street Bramley",10,10,0,0,,,Draft
+HG1-142,163,"Broad Lane (139) - Salvation Army, Bramley",83,0,0,83,,,Draft
+HG1-143,3305,"Victoria Park Avenue, Bramley",21,21,0,0,,,Draft
+HG1-144,587,"Broad Lane, Bramley LS5",19,19,0,0,,,Draft
+HG1-145,625,"Canal Wharf, Wyther Lane LS5",84,0,0,84,,,Draft
+HG1-146,HLA2405460,"Former Lord Cardigan Public House, Hough Lane, Bramley, Leeds",8,0,0,8,,,Draft
+HG1-147,HLA2405050,BRAMLEY DISTRICT CENTRE LS13,21,0,0,21,,,Draft
+HG1-148,3303,"Former Raynville Hotel, Raynville Drive, Bramley, Leeds, LS13 2QE",14,14,0,0,,,Draft
+HG1-149,3302,"New Street, Farsley, Pudsey, LS28 5DJ",10,0,0,10,,,Draft
+HG1-150,24,"Newlands - Farsley Celtic AFC, Farsley",14,14,0,0,,,Draft
+HG1-151,5114,"Land And Premises Opposite 60 To 68, Half Mile Lane, Stanningley, Pudsey",12,0,0,12,,,Draft
+HG1-152,636,Broad Lane - Westfield Mill LS13,133,0,0,133,,,Draft
+HG1-153,HLA2404670,Brown Cow Ph Stanningley Rd Pudsey,18,1,17,0,,,Draft
+HG1-154,242,"Fairfields, Fairfield Grove, Bramley",16,0,5,11,,,Draft
+HG1-155,613,Elder Road / Swinnow Road LS13,25,0,0,25,,,Draft
+HG1-156,26,Swinnow Road - land north of Morrisons,25,0,0,25,,,Draft
+HG1-157,3196,"Elder Road, LS13",22,0,0,22,,,Draft
+HG1-158,4199,"Town End Works, Bramley",28,0,0,28,,,Draft
+HG1-159,1147,"Springfield Mill and Craven Mill, Stanningley Road, Bramley",72,0,0,72,,,Draft
+HG1-160,HLA2405140,Hisco Works Aston Mount LS13,5,0,0,5,,,Draft
+HG1-161,649,"Charity Farm, Swinnow",50,0,0,50,,,Draft
+HG1-162,678,"Bradford Road (83-105), Stanningley",78,0,0,78,,,Draft
+HG1-163,HLA2405090,Vernon Place LS28,8,0,0,8,,,Draft
+HG1-164,667,Town Street - Belgrave Works LS13,78,0,0,78,,,Draft
+HG1-165,669,"Dick Lane - Midpoint, Pudsey",122,115,4,3,,,Draft
+HG1-166,3344,"Land off Waterloo Mount, Pudsey LS28",22,16,0,6,,,Draft
+HG1-167,5119,"Ingham's Avenue, Waterloo Mount & Grove",24,8,16,0,,,Draft
+HG1-168,646,"Delph End, Pudsey",38,4,0,34,,,Draft
+HG1-169,4193,"Land At Waterloo Road and Gibraltar Road, Pudsey",29,29,0,0,,,Draft
+HG1-170,248,"Waterloo Infants School, Waterloo Road, Pudsey",4,4,0,0,,,Draft
+HG1-171,3208,"9 Marsh, Pudsey",5,0,5,0,,,Draft
+HG1-172,666,"Occupation Lane, Pudsey",83,83,0,0,,,Draft
+HG1-173,153,"Cemetery Road, Pudsey LS28 7HH",103,103,0,0,,,Draft
+HG1-174,4189,"Former Pudsey Grangefield School, LS28 7ND",49,8,41,0,,,Draft
+HG1-175,3226,"Clifton Road, Pudsey",3,3,0,0,,,Draft
+HG1-176,3209,"51-61 Mount Pleasant Road, Pudsey",5,5,0,0,,,Draft
+HG1-177,650,"Lane End, Pudsey",20,0,0,20,,,Draft
+HG1-178,671,"Lane End, Pudsey",14,0,0,14,,,Draft
+HG1-179,3179,"Former Bowling Green, Intake Road, Pudsey",4,4,0,0,,,Draft
+HG1-180,5185,"Former Garage Site, Harley Green",8,0,0,8,,,Draft
+HG1-181,656,"Pudsey Road, Bramley LS13",10,0,0,10,,,Draft
+HG1-182,HLA2405190,30 Tower Lane LS12,5,0,0,5,,,Draft
+HG1-183,41,Moorfield Road -Tower Works LS12 3RS,62,0,0,62,,,Draft
+HG1-184,255,"Far Fold, Theaker Lane LS12",46,25,21,0,,,Draft
+HG1-185,HLA2405410,"The Former Barleycorn, 114 Town Street, Armley, Leeds",8,8,0,0,,,Draft
+HG1-186,HLA2404440,Oddy's Yard Town Street LS12,9,4,5,0,,,Draft
+HG1-187,HLA2405100,43 Carr Crofts LS12,7,0,0,7,,,Draft
+HG1-188,4197,"St Lawrence House, Pudsey",11,10,1,0,,,Draft
+HG1-189,653,"Robin Lane/Longfield Road, Pudsey",28,0,0,28,,,Draft
+HG1-190,644,"Berry Mount, Wood Lane LS12",12,0,0,12,,,Draft
+HG1-191,HLA2405250,249 Pudsey Road LS13,5,0,5,0,,,Draft
+HG1-192,4194,"Land Off Tong Way, Farnley",16,0,0,16,,,Draft
+HG1-193,HLA2405470,"Royal Oak, 40 Silver Royd Hill, Wortley, Leeds, LS12 4QQ",6,0,0,6,,,Draft
+HG1-194,638,"Land rear of 22 Thornhill Croft and Upper Wortley County Primary School, Ashley Road, Upper Wortley, Leeds",49,0,0,49,,,Draft
+HG1-195,3202,"120-122 Smalewell Road, Pudsey",5,5,0,0,,,Draft
+HG1-196,3379,"Site Underconstruction of New Builds, Green Lane, Pudsey",14,0,0,14,,,Draft
+HG1-197,5187,"Land Off Fartown, Pudsey",13,0,0,13,,,Draft
+HG1-198,33,"Carlisle Road - Daytona Works, Pudsey LS28 8PL",23,5,0,18,,,Draft
+HG1-199,5118,"Roker Lane, Hare Lane",9,0,0,9,,,Draft
+HG1-200,3203,Lumby Lane,13,0,0,13,,,Draft
+HG1-201,382,"Walmer Grove, Pudsey",36,36,0,0,,,Draft
+HG1-202,HLA2503170,WEASEL PH ROKER LANE PUDSEY,12,0,0,12,,,Draft
+HG1-203,5105,"Lawns House, Chapel Lane, Farnley, Leeds, LS12 5et",8,6,2,0,,,Draft
+HG1-204,HLA2404820,Prospect House Fawcett Lne LS12,12,0,0,12,,,Draft
+HG1-205,595,"Fawcett Lane - Cliff House, LS12",7,0,0,7,,,Draft
+HG1-206,64,South Park Mills (15a 15 16 17) - Acrivan Ltd,14,0,0,14,,,Draft
+MX1-3,626,Abbey Road - Kirkstall Forge LS5,415,0,0,415,,,Draft
+MX1-4,CFSM051,"Site of Sunnybank Mills, Town Street, Farsley, Pudsey",12,0,0,12,,,Draft
+HG2-53,4097,"Calverley Cutting / Leeds Liverpool Canal, Apperly Bridge",32,,,,1.1,Greenfield,Draft
+HG2-58,1322,"Airedale Mills, Rodley",69,,,,1.9,Brownfield,Draft
+HG2-60,5136,Hillside Reception Centre Leeds and Bradford Road Bramley,24,,,,0.7,Brownfield,Draft
+HG2-61,4042A,"Raynville Road/Raynville Crescent, Bramley (East)",15,,,,0.5,Greenfield,Draft
+HG2-63,1201,"Woodhall Road (land adjoining) - Gain Lane, Thornbury BD3",196,,,,7.4,Greenfield,Draft
+HG2-64,4047,"Bradford Road, Sunnybank Lane, Pudsey",22,,,,0.6,Brownfield,Draft
+HG2-65,4046,"Daleside Road, Thornbury, North",89,,,,3.4,Greenfield,Draft
+HG2-66,2120,"Hill Foot Farm, Pudsey",70,,,,2.7,Greenfield,Draft
+HG2-67,1073A_3440,Owlcotes Farm/Owlcotes Gardens Pudsey,100,,,,3.3,Mix 70:30,Draft
+HG2-68,1195,"Waterloo Road (land at), Pudsey LS28",35,,,,1.1,Greenfield,Draft
+HG2-69,3011_4044,Dick Lane Thornbury,206,,,,7.5,Mix 70:30,Draft
+HG2-70,3121,Tyresal Lane,27,,,,0.9,Greenfield,Draft
+HG2-71,4169,"Land off Tyersal Road, Pudsey",33,,,,1.1,Greenfield,Draft
+HG2-72,3464,"Land off Tyersal Court, Tyersal",40,,,,2.9,Greenfield,Draft
+HG2-73,1343A,"Harper Gate Farm, Tyersal Lane, Bradford BD4 0RD",283,,,,9.2,Greenfield,Draft
+HG2-74,659,"Station Street, Pudsey",20,,,,0.5,Greenfield,Draft
+HG2-75,5135,Musgrave House Crawshaw Road Pudsey,14,,,,0.4,Brownfield,Draft
+HG2-76,1060A_3377,Hough Side Road Pudsey,160,,,,5.5,Greenfield,Draft
+HG2-77,4039,"Regina House, Ring Road Bramley",64,,,,1.8,Brownfield,Draft
+HG2-80,1184_3050,Acres Hall Avenue Pudsey,99,,,,3.6,Greenfield,Draft
+HG2-81,3455B,Land off Gamble Lane,200,,,,7.6,Greenfield,Draft
+HG2-82,4007,Wortley High School,40,,,,6.6,Mix 65:35,Draft
+HG2-83,4036,"Upper Wortley Road, Thornhill Road, Bramley",18,,,,0.5,Brownfield,Draft
+HG2-84,254,"Oldfield Lane - Leeds City Boy's pitch, LS12",61,,,,1.7,Greenfield,Draft
+HG2-200,4249_5010,"Stanningley Road, Leeds",22,,,,0,Brownfield,Draft
+MX2-5,3412,"Waterloo Lane, Leeds",20,,,,1.2,Brownfield,Draft
+MX2-6,HSG01793,Wortley Low Mills Whitehall Road,35,,,,2.5,Brownfield,Draft
+HG2-56,1193A,"Rodley Lane (land at) - Calverley Lane, Calverley LS19",53,,,,2,Greenfield,Draft
+HG2-59,4213,Land at Rodley lane,17,,,,0.6,Greenfield,Draft
+HG2-54,1124,"Upper Carr Lane (land off), Calverley",18,,,,0.9,Greenfield,Draft
+HG2-55,4049,"Calverley Lane, Calverley",18,,,,0.6,Greenfield,Draft
+HG3-14,1110,"Rodley (land at), Leeds LS13",1.6,50,,,,,Draft
+HG3-15,1114,"Kirklees Knowl (land at), Bagley Lane, Bagley",18,415,,,,,Draft
+HG3-16,3455A,Land off Gamble Lane,4.5,120,,,,,Draft
+HG3-17,2123,"Low Moor Side, New Farnley",5.7,130,,,,,Draft
