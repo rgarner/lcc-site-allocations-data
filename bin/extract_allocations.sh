@@ -17,8 +17,7 @@ tabula "$RAW/09.Outer South East HMCA Area.pdf" -rp 2-4,24,28,29 | bin/jun16pdfs
 tabula "$RAW/10.Outer South West HMCA Area.pdf" -rp 2-7,80-82    | bin/jun16pdfs.rb > ${OUTPUT}/10.csv
 tabula "$RAW/11.Outer West HMCA Area.pdf"       -rp 3-8,66,71    | bin/jun16pdfs.rb > ${OUTPUT}/11.csv
 
-echo 'Allocation Ref,SHLAA Refs,Address,Capacity,Completed post-2012,'\
-     'Under construction,Not started,Area HA,Green/Brown,Status' > ${FINAL_FILE}
+echo "Allocation Ref,SHLAA Refs,Address,Capacity,Completed post-2012,Under construction,Not started,Area HA,Green/Brown,Status" > ${FINAL_FILE}
 
 cat ${OUTPUT}/{1..11}.csv >> ${FINAL_FILE}
 
